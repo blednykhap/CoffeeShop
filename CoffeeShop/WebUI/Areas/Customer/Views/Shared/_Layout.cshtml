@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+    <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <meta charset="utf-8" />
+        <title>@ViewBag.Title — Coffee Shop ASP.NET MVC</title>
+        <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        <meta name="viewport" content="width=device-width" />
+        @Styles.Render("~/Content/css")
+        @Scripts.Render("~/bundles/modernizr")
+
+        <link href="~/Content/ShopStyle.css" rel="stylesheet" />
+
+    </head>
+    <body>
+        <header>
+            <div class="content-wrapper">
+                <div class="float-left" style="font-size: 20px; color: #34713f;">                    
+                    <img src="~/Images/Starbucks.png" /> Starbucks Coffee Shop                    
+                </div>
+                <div class="float-right">
+                    <section id="login">
+                        @Html.Partial("_LoginPartial")                        
+                    </section>
+                    <div style="margin-top:50px;" class="my-bag">
+                        @*<nav>
+                            <ul id="menu">
+                                <li>@Html.ActionLink("Домашняя страница", "Index", "Home")</li>
+                                <li>@Html.ActionLink("О программе", "About", "Home")</li>
+                                <li>@Html.ActionLink("Контакт", "Contact", "Home")</li>
+                            </ul>
+                        </nav>*@
+
+                        <a>ORDER LIST</a>
+
+                        @Ajax.ActionLink("MY BAG", "Index", "OrderFlavor", 
+                            new AjaxOptions() { HttpMethod = "POST", InsertionMode = System.Web.Mvc.Ajax.InsertionMode.Replace, UpdateTargetId = "content-body"})
+                        <span id="order-flavor-quantity"></span>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <div id="body">
+            @RenderSection("featured", required: false)
+            <section class="content-wrapper main-content clear-fix">
+                @RenderBody()
+            </section>
+        </div>
+        <footer>
+            <div class="content-wrapper">
+                <div class="float-left">
+                    <p>
+                        @*<a style="border-width: 0px;" href="http://softline.ru/"><img src="~/Images/Softline.png" /></a> <br />*@
+                        <img src="~/Images/Softline.png" /> <br />
+                        &copy; @DateTime.Now.Year — Coffee Shop
+                    </p>                    
+                </div>
+            </div>
+        </footer>
+
+        @Scripts.Render("~/bundles/jquery")
+        @Scripts.Render("~/bundles/jqueryval")
+
+        <script src="~/Scripts/ShopScript.js"></script>
+
+        @RenderSection("scripts", required: false)
+    </body>
+</html>

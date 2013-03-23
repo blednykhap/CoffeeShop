@@ -1,0 +1,78 @@
+﻿#coffee-list {
+    float: left;
+    width: 17em;
+}
+
+    #coffee-list a {
+        font: bold 1.0em Arial;
+        /*font: bold 1.1em "Arial Narrow", "Franklin Gothic Medium", Arial;*/
+        display: block;
+        text-decoration: none; 
+        padding: 0.6em; 
+        color: #002953;
+        /*color: black;*/
+        border-bottom: 1px solid silver;
+    }
+
+        #coffee-list a.selected {
+            background-color: #CCC;
+            color: #002953;
+        }
+
+        #coffee-list a:hover {
+            background-color: #CCC;
+        }
+
+        #coffee-list a.selected:hover {
+            background-color: #CCC;
+        }
+
+#content-body {
+    border-left: 2px solid gray;
+    margin-left: 18em;
+    min-height: 400px;
+    padding: 0em 0em 1em 1em;
+}
+
+.my-bag {
+    font-size: 1.5em;   
+    color : #34713f;
+}
+
+.flavor-item {
+    border-top: 1px dotted gray;
+    padding-top: 0.7em;
+    margin-bottom: 0.7em;
+}
+
+    .flavor-item:first-child {
+        border-top: none;
+        padding-top: 0;
+    }
+
+    .flavor-item h3 {
+        font-size: 1.3em;
+        margin: 0 0 0.25em 0;
+    }
+
+.flavor-pager {
+    text-align:right;
+    border-top: 2px solid silver;
+    padding: 0.5em 0 0 0; margin-top: 1em;
+}
+
+    .flavor-pager a {
+        font-size: 1.1em;
+        /*color: #666;*/
+        text-decoration: none;
+        padding: 0 0.4em 0 0.4em;
+    }
+
+        .flavor-pager a:hover {
+            background-color: silver;
+        }
+
+        .flavor-pager a.selected {
+            background-color: #353535;
+            color: white;
+        }

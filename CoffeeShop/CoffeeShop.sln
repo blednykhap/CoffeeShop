@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebUI", "WebUI\WebUI.csproj", "{7F822D52-54E7-47F9-8840-33DF6E6F0A6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebUI.Tests", "WebUI.Tests\WebUI.Tests.csproj", "{1DC40326-2EFC-4C37-A221-9435D9B04093}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{CD179A5F-3DCD-473F-9550-53FF3AF3F173}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bussiness", "Bussiness\Bussiness.csproj", "{1A729020-4494-43F7-8765-FE1CA8BD6DC6}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://blednykhap.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Bussiness\\Bussiness.csproj
+		SccProjectName1 = Bussiness
+		SccLocalPath1 = Bussiness
+		SccProjectUniqueName2 = Core\\Core.csproj
+		SccProjectName2 = Core
+		SccLocalPath2 = Core
+		SccProjectUniqueName3 = WebUI.Tests\\WebUI.Tests.csproj
+		SccProjectName3 = WebUI.Tests
+		SccLocalPath3 = WebUI.Tests
+		SccProjectUniqueName4 = WebUI\\WebUI.csproj
+		SccProjectName4 = WebUI
+		SccLocalPath4 = WebUI
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F822D52-54E7-47F9-8840-33DF6E6F0A6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F822D52-54E7-47F9-8840-33DF6E6F0A6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F822D52-54E7-47F9-8840-33DF6E6F0A6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F822D52-54E7-47F9-8840-33DF6E6F0A6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DC40326-2EFC-4C37-A221-9435D9B04093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DC40326-2EFC-4C37-A221-9435D9B04093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DC40326-2EFC-4C37-A221-9435D9B04093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DC40326-2EFC-4C37-A221-9435D9B04093}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD179A5F-3DCD-473F-9550-53FF3AF3F173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD179A5F-3DCD-473F-9550-53FF3AF3F173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD179A5F-3DCD-473F-9550-53FF3AF3F173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD179A5F-3DCD-473F-9550-53FF3AF3F173}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A729020-4494-43F7-8765-FE1CA8BD6DC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A729020-4494-43F7-8765-FE1CA8BD6DC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A729020-4494-43F7-8765-FE1CA8BD6DC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A729020-4494-43F7-8765-FE1CA8BD6DC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

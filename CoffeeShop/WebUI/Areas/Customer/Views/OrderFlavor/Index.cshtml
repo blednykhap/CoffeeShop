@@ -1,0 +1,38 @@
+﻿@model Core.Models.Order
+
+<h1>
+    My order
+</h1>
+   
+<table>
+        <tr style="border-bottom: 2px solid black; text-align: center">
+            <td> Coffee Name </td>
+            <td> Flavor Name </td>
+            <td> Quantity </td>
+            <td> Price </td>
+            <td> Total Sum </td>
+            <td> Operation </td>
+        </tr> 
+    @foreach (var orderFlavor in Model.OrderFlavors)
+    {
+        <tr>
+            <td> @orderFlavor.Flavor.Coffee.Name </td>
+            <td> @orderFlavor.Flavor.Name </td>
+            <td style="text-align:center"> @orderFlavor.Quantity </td>
+            <td style="text-align:right"> @orderFlavor.Flavor.Price </td>
+            <td style="text-align:right"> @(orderFlavor.Flavor.Price * orderFlavor.Quantity) </td>
+            <td> 
+                @Ajax.ActionLink("Delete", "Delete", "OrderFlavor", new { flavorId = orderFlavor.Id }, 
+                    new AjaxOptions() { UpdateTargetId = "content-body" }) 
+            </td>
+        </tr> 
+    }
+        <tr style="border-top: 2px solid black">
+            <td> </td>
+            <td> </td>
+            <td> </td>
+            <td style="font-weight:bold"> Total: </td>
+            <td style="font-weight:bold; text-align: right"> @Model.TotalSum() </td>
+            <td></td>
+        </tr> 
+</table>

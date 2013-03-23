@@ -1,0 +1,276 @@
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\WebUI.Tests.dll.config
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\WebUI.Tests.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\WebUI.Tests.pdb
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.Http.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.Razor.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\WebUI.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\EntityFramework.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\Ninject.Web.Common.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\Ninject.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\Core.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\WebActivator.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\WebGrease.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\Antlr3.Runtime.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\WebUI.pdb
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.Http.xml
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.Razor.xml
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\EntityFramework.xml
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\Ninject.Web.Common.pdb
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\Ninject.Web.Common.xml
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\Ninject.pdb
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\Ninject.xml
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\Core.pdb
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\ru\System.Net.Http.Formatting.resources.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\ru\System.Web.Helpers.resources.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\ru\System.Web.Http.resources.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\ru\System.Web.Http.WebHost.resources.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\ru\System.Web.Mvc.resources.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\ru\System.Web.Razor.resources.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\ru\System.Web.WebPages.resources.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\ru\EntityFramework.resources.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\ru\System.Web.Optimization.resources.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\bin\Debug\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\obj\Debug\WebUI.Tests.csprojResolveAssemblyReference.cache
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\obj\Debug\WebUI.Tests.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI.Tests\obj\Debug\WebUI.Tests.pdb
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\obj\Debug\WebUI.Tests.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\obj\Debug\WebUI.Tests.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\WebUI.Tests.dll.config
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\WebUI.Tests.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\WebUI.Tests.pdb
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.Http.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.Razor.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\WebUI.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\EntityFramework.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\Core.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\Ninject.Web.Common.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\Ninject.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\WebActivator.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\WebGrease.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\WebUI.pdb
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.Http.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.Razor.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\EntityFramework.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\Core.pdb
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\Ninject.Web.Common.pdb
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\Ninject.Web.Common.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\Ninject.pdb
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\Ninject.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\ru\System.Net.Http.Formatting.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\ru\System.Web.Helpers.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\ru\System.Web.Http.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\ru\System.Web.Http.WebHost.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\ru\System.Web.WebPages.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\ru\EntityFramework.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\ru\System.Web.Optimization.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\bin\Debug\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI.Tests\obj\Debug\WebUI.Tests.pdb
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\WebUI.Tests.dll.config
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\WebUI.Tests.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\WebUI.Tests.pdb
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.Http.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.Razor.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\WebUI.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\EntityFramework.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\Core.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\Ninject.Web.Common.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\Ninject.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\WebActivator.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\WebGrease.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\Antlr3.Runtime.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\WebUI.pdb
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.Http.xml
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.Razor.xml
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\EntityFramework.xml
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\Core.pdb
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\Ninject.Web.Common.pdb
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\Ninject.Web.Common.xml
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\Ninject.pdb
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\Ninject.xml
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\ru\System.Net.Http.Formatting.resources.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\ru\System.Web.Helpers.resources.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\ru\System.Web.Http.resources.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\ru\System.Web.Http.WebHost.resources.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\ru\System.Web.Mvc.resources.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\ru\System.Web.Razor.resources.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\ru\System.Web.WebPages.resources.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\ru\EntityFramework.resources.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\ru\System.Web.Optimization.resources.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\bin\Debug\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\obj\Debug\WebUI.Tests.csprojResolveAssemblyReference.cache
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\obj\Debug\WebUI.Tests.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI.Tests\obj\Debug\WebUI.Tests.pdb
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\WebUI.Tests.dll.config
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\WebUI.Tests.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\WebUI.Tests.pdb
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.Http.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.Razor.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\WebUI.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\EntityFramework.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\Core.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\Ninject.Web.Common.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\Ninject.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\WebActivator.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\WebGrease.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\WebUI.pdb
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.Http.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.Razor.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\EntityFramework.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\Core.pdb
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\Ninject.Web.Common.pdb
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\Ninject.Web.Common.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\Ninject.pdb
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\Ninject.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\ru\System.Net.Http.Formatting.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\ru\System.Web.Helpers.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\ru\System.Web.Http.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\ru\System.Web.Http.WebHost.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\ru\System.Web.WebPages.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\ru\EntityFramework.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\ru\System.Web.Optimization.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\bin\Debug\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\obj\Debug\WebUI.Tests.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\obj\Debug\WebUI.Tests.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI.Tests\obj\Debug\WebUI.Tests.pdb

@@ -1,0 +1,461 @@
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\WebUI.dll
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\WebUI.pdb
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\Antlr3.Runtime.dll
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\DotNetOpenAuth.AspNet.dll
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\DotNetOpenAuth.Core.dll
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\DotNetOpenAuth.OAuth.dll
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\DotNetOpenAuth.OpenId.dll
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\EntityFramework.dll
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\Newtonsoft.Json.dll
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\System.Net.Http.Formatting.dll
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\System.Web.Helpers.dll
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\System.Web.Http.dll
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\System.Web.Http.WebHost.dll
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\System.Web.Mvc.dll
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\System.Web.Optimization.dll
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\System.Web.Razor.dll
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\System.Web.WebPages.dll
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\System.Web.WebPages.Razor.dll
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\WebGrease.dll
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\WebMatrix.Data.dll
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\WebMatrix.WebData.dll
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\EntityFramework.xml
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\Newtonsoft.Json.xml
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\System.Net.Http.Formatting.xml
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\System.Web.Helpers.xml
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\System.Web.Http.xml
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\System.Web.Http.WebHost.xml
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\System.Web.Mvc.xml
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\System.Web.Razor.xml
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\System.Web.WebPages.xml
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\System.Web.WebPages.Razor.xml
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\WebMatrix.Data.xml
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\WebMatrix.WebData.xml
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\DotNetOpenAuth.AspNet.xml
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\DotNetOpenAuth.Core.xml
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\DotNetOpenAuth.OAuth.xml
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\DotNetOpenAuth.OpenId.xml
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\ru\EntityFramework.resources.dll
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\ru\System.Web.Helpers.resources.dll
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\ru\System.Web.Http.resources.dll
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\ru\System.Web.Mvc.resources.dll
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\ru\System.Web.Optimization.resources.dll
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\ru\System.Web.Razor.resources.dll
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\ru\System.Web.WebPages.resources.dll
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\ru\WebMatrix.Data.resources.dll
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\bin\ru\WebMatrix.WebData.resources.dll
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\obj\Debug\WebUI.dll
+D:\Programming\Coffee Project _002\CoffeeShop\WebUI\obj\Debug\WebUI.pdb
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\WebUI.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\WebUI.pdb
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\Antlr3.Runtime.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\Core.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\DotNetOpenAuth.AspNet.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\DotNetOpenAuth.Core.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\DotNetOpenAuth.OAuth.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\DotNetOpenAuth.OpenId.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\EntityFramework.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\Newtonsoft.Json.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\Ninject.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\Ninject.Web.Common.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\Ninject.Web.Mvc.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\System.Net.Http.Formatting.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\System.Web.Helpers.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\System.Web.Http.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\System.Web.Http.WebHost.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\System.Web.Mvc.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\System.Web.Optimization.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\System.Web.Razor.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\System.Web.WebPages.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\System.Web.WebPages.Razor.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\WebActivator.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\WebGrease.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\WebMatrix.Data.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\WebMatrix.WebData.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\Core.pdb
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\Ninject.pdb
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\Ninject.xml
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\Ninject.Web.Common.pdb
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\Ninject.Web.Common.xml
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\Ninject.Web.Mvc.pdb
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\Ninject.Web.Mvc.xml
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\EntityFramework.xml
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\Newtonsoft.Json.xml
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\System.Net.Http.Formatting.xml
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\System.Web.Helpers.xml
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\System.Web.Http.xml
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\System.Web.Http.WebHost.xml
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\System.Web.Mvc.xml
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\System.Web.Razor.xml
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\System.Web.WebPages.xml
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\System.Web.WebPages.Razor.xml
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\WebMatrix.Data.xml
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\WebMatrix.WebData.xml
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\DotNetOpenAuth.AspNet.xml
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\DotNetOpenAuth.Core.xml
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\DotNetOpenAuth.OAuth.xml
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\DotNetOpenAuth.OpenId.xml
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\ru\EntityFramework.resources.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\ru\System.Web.Helpers.resources.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\ru\System.Web.Http.resources.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\ru\System.Web.Mvc.resources.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\ru\System.Web.Optimization.resources.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\ru\System.Web.Razor.resources.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\ru\System.Web.WebPages.resources.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\ru\WebMatrix.Data.resources.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\bin\ru\WebMatrix.WebData.resources.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\obj\Debug\WebUI.dll
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\obj\Debug\WebUI.pdb
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\obj\Debug\WebUI.Migrations.update_002.resources
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\obj\Debug\WebUI.csproj.GenerateResource.Cache
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\obj\Debug\WebUI.Migrations.update_003.resources
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\obj\Debug\WebUI.Migrations.update_004.resources
+D:\Programming\Coffee Project _004\CoffeeShop\WebUI\obj\Debug\WebUI.Migrations.update_005.resources
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\WebUI.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\WebUI.pdb
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\Antlr3.Runtime.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\Core.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\DotNetOpenAuth.AspNet.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\DotNetOpenAuth.Core.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\DotNetOpenAuth.OAuth.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\DotNetOpenAuth.OpenId.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\EntityFramework.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\Newtonsoft.Json.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\Ninject.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\Ninject.Web.Common.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\Ninject.Web.Mvc.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\System.Net.Http.Formatting.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\System.Web.Helpers.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\System.Web.Http.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\System.Web.Http.WebHost.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\System.Web.Mvc.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\System.Web.Optimization.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\System.Web.Razor.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\System.Web.WebPages.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\WebActivator.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\WebGrease.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\WebMatrix.Data.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\WebMatrix.WebData.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\Core.pdb
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\Ninject.pdb
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\Ninject.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\Ninject.Web.Common.pdb
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\Ninject.Web.Common.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\Ninject.Web.Mvc.pdb
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\Ninject.Web.Mvc.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\EntityFramework.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\Newtonsoft.Json.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\System.Net.Http.Formatting.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\System.Web.Helpers.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\System.Web.Http.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\System.Web.Http.WebHost.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\System.Web.Mvc.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\System.Web.Razor.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\System.Web.WebPages.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\WebMatrix.Data.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\WebMatrix.WebData.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\DotNetOpenAuth.AspNet.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\DotNetOpenAuth.Core.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\DotNetOpenAuth.OAuth.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\DotNetOpenAuth.OpenId.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\ru\EntityFramework.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\ru\System.Web.Helpers.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\ru\System.Web.Http.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\ru\System.Web.Mvc.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\ru\System.Web.Optimization.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\ru\System.Web.Razor.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\ru\System.Web.WebPages.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\ru\WebMatrix.Data.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\ru\WebMatrix.WebData.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\obj\Debug\WebUI.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\obj\Debug\WebUI.pdb
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\obj\Debug\WebUI.Migrations.update_008.resources
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\obj\Debug\WebUI.csproj.GenerateResource.Cache
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\Bussiness.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _005\CoffeeShop\WebUI\bin\Bussiness.pdb
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\WebUI.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\WebUI.pdb
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\Antlr3.Runtime.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\Bussiness.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\Core.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\DotNetOpenAuth.AspNet.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\DotNetOpenAuth.Core.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\DotNetOpenAuth.OAuth.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\DotNetOpenAuth.OpenId.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\EntityFramework.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\Newtonsoft.Json.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\Ninject.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\Ninject.Web.Common.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\Ninject.Web.Mvc.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\System.Net.Http.Formatting.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\System.Web.Helpers.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\System.Web.Http.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\System.Web.Http.WebHost.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\System.Web.Mvc.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\System.Web.Optimization.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\System.Web.Razor.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\System.Web.WebPages.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\System.Web.WebPages.Razor.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\WebActivator.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\WebGrease.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\WebMatrix.Data.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\WebMatrix.WebData.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\Bussiness.pdb
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\Core.pdb
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\Ninject.pdb
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\Ninject.xml
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\Ninject.Web.Common.pdb
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\Ninject.Web.Common.xml
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\Ninject.Web.Mvc.pdb
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\Ninject.Web.Mvc.xml
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\EntityFramework.xml
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\Newtonsoft.Json.xml
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\System.Net.Http.Formatting.xml
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\System.Web.Helpers.xml
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\System.Web.Http.xml
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\System.Web.Http.WebHost.xml
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\System.Web.Mvc.xml
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\System.Web.Razor.xml
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\System.Web.WebPages.xml
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\System.Web.WebPages.Razor.xml
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\WebMatrix.Data.xml
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\WebMatrix.WebData.xml
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\DotNetOpenAuth.AspNet.xml
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\DotNetOpenAuth.Core.xml
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\DotNetOpenAuth.OAuth.xml
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\DotNetOpenAuth.OpenId.xml
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\ru\EntityFramework.resources.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\ru\System.Web.Helpers.resources.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\ru\System.Web.Http.resources.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\ru\System.Web.Mvc.resources.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\ru\System.Web.Optimization.resources.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\ru\System.Web.Razor.resources.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\ru\System.Web.WebPages.resources.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\ru\WebMatrix.Data.resources.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\bin\ru\WebMatrix.WebData.resources.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\obj\Debug\WebUI.dll
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\obj\Debug\WebUI.pdb
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\obj\Debug\WebUI.Migrations.update_009.resources
+D:\Programming\Coffee Project _006\CoffeeShop\WebUI\obj\Debug\WebUI.csproj.GenerateResource.Cache
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\WebUI.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\WebUI.pdb
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\Antlr3.Runtime.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\Bussiness.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\Core.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\DotNetOpenAuth.AspNet.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\DotNetOpenAuth.Core.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\DotNetOpenAuth.OAuth.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\DotNetOpenAuth.OpenId.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\EntityFramework.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\Newtonsoft.Json.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\Ninject.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\Ninject.Web.Common.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\Ninject.Web.Mvc.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\System.Net.Http.Formatting.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\System.Web.Helpers.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\System.Web.Http.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\System.Web.Http.WebHost.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\System.Web.Mvc.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\System.Web.Optimization.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\System.Web.Razor.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\System.Web.WebPages.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\WebActivator.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\WebGrease.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\WebMatrix.Data.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\WebMatrix.WebData.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\Bussiness.pdb
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\Core.pdb
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\Ninject.pdb
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\Ninject.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\Ninject.Web.Common.pdb
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\Ninject.Web.Common.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\Ninject.Web.Mvc.pdb
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\Ninject.Web.Mvc.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\EntityFramework.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\Newtonsoft.Json.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\System.Net.Http.Formatting.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\System.Web.Helpers.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\System.Web.Http.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\System.Web.Http.WebHost.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\System.Web.Mvc.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\System.Web.Razor.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\System.Web.WebPages.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\WebMatrix.Data.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\WebMatrix.WebData.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\DotNetOpenAuth.AspNet.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\DotNetOpenAuth.Core.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\DotNetOpenAuth.OAuth.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\DotNetOpenAuth.OpenId.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\ru\EntityFramework.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\ru\System.Web.Helpers.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\ru\System.Web.Http.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\ru\System.Web.Mvc.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\ru\System.Web.Optimization.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\ru\System.Web.Razor.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\ru\System.Web.WebPages.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\ru\WebMatrix.Data.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\bin\ru\WebMatrix.WebData.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\obj\Debug\WebUI.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\obj\Debug\WebUI.pdb
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\obj\Debug\WebUI.Migrations.update_011.resources
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\obj\Debug\WebUI.csproj.GenerateResource.Cache
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\obj\Debug\WebUI.Migrations.update_012.resources
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\Coffee Project _007\CoffeeShop\WebUI\obj\Debug\WebUI.Migrations.update_013.resources
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\WebUI.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\WebUI.pdb
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\Antlr3.Runtime.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\Bussiness.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\Core.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\DotNetOpenAuth.AspNet.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\DotNetOpenAuth.Core.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\DotNetOpenAuth.OAuth.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\DotNetOpenAuth.OpenId.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\EntityFramework.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\Newtonsoft.Json.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\Ninject.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\Ninject.Web.Common.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\Ninject.Web.Mvc.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\System.Net.Http.Formatting.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\System.Web.Helpers.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\System.Web.Http.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\System.Web.Http.WebHost.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\System.Web.Mvc.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\System.Web.Optimization.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\System.Web.Razor.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\System.Web.WebPages.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\System.Web.WebPages.Razor.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\WebActivator.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\WebGrease.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\WebMatrix.Data.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\WebMatrix.WebData.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\Bussiness.pdb
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\Core.pdb
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\Ninject.pdb
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\Ninject.xml
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\Ninject.Web.Common.pdb
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\Ninject.Web.Common.xml
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\Ninject.Web.Mvc.pdb
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\Ninject.Web.Mvc.xml
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\EntityFramework.xml
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\Newtonsoft.Json.xml
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\System.Net.Http.Formatting.xml
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\System.Web.Helpers.xml
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\System.Web.Http.xml
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\System.Web.Http.WebHost.xml
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\System.Web.Mvc.xml
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\System.Web.Razor.xml
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\System.Web.WebPages.xml
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\System.Web.WebPages.Razor.xml
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\WebMatrix.Data.xml
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\WebMatrix.WebData.xml
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\DotNetOpenAuth.AspNet.xml
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\DotNetOpenAuth.Core.xml
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\DotNetOpenAuth.OAuth.xml
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\DotNetOpenAuth.OpenId.xml
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\ru\EntityFramework.resources.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\ru\System.Web.Helpers.resources.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\ru\System.Web.Http.resources.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\ru\System.Web.Mvc.resources.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\ru\System.Web.Optimization.resources.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\ru\System.Web.Razor.resources.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\ru\System.Web.WebPages.resources.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\ru\WebMatrix.Data.resources.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\bin\ru\WebMatrix.WebData.resources.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\obj\Debug\WebUI.dll
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\obj\Debug\WebUI.pdb
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\obj\Debug\WebUI.Migrations.update_014.resources
+D:\Programming\Coffee Project _008\CoffeeShop\WebUI\obj\Debug\WebUI.csproj.GenerateResource.Cache
