@@ -180,20 +180,20 @@
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Areas\Customer\Controllers\FlavorController.cs" />
     <Compile Include="Areas\Customer\Controllers\HomeController.cs" />
-    <Compile Include="Areas\Customer\Controllers\OrderFlavorController.cs" />
+    <Compile Include="Areas\Customer\Controllers\OrderController.cs" />
+    <Compile Include="Areas\Customer\Controllers\CurrentOrderController.cs" />
     <Compile Include="Areas\Customer\CustomerAreaRegistration.cs" />
     <Compile Include="Areas\Seller\SellerAreaRegistration.cs" />
     <Compile Include="Controllers\AccountController.cs" />
-    <Compile Include="Controllers\Home_Controller.cs" />
     <Compile Include="Controllers\StartController.cs" />
     <Compile Include="Filters\InitializeSimpleMembershipAttribute.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="HtmlHelpers\PagingHelpers.cs" />
-    <Compile Include="Migrations\201303221325209_update_014.cs" />
-    <Compile Include="Migrations\201303221325209_update_014.Designer.cs">
-      <DependentUpon>201303221325209_update_014.cs</DependentUpon>
+    <Compile Include="Migrations\201303241104198_update_017.cs" />
+    <Compile Include="Migrations\201303241104198_update_017.Designer.cs">
+      <DependentUpon>201303241104198_update_017.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountModels.cs" />
@@ -262,8 +262,8 @@
     <Content Include="Areas\Customer\Views\Shared\_Layout.cshtml" />
     <Content Include="Areas\Customer\Views\Home\Index.cshtml" />
     <Content Include="Areas\Customer\Views\Flavor\Index.cshtml" />
-    <Content Include="Areas\Customer\Views\OrderFlavor\Index.cshtml" />
-    <Content Include="Areas\Customer\Views\OrderFlavor\Index_.cshtml" />
+    <Content Include="Areas\Customer\Views\Order\Index.cshtml" />
+    <Content Include="Areas\Customer\Views\CurrentOrder\Index.cshtml" />
     <None Include="Scripts\jquery-1.7.1.intellisense.js" />
     <Content Include="Images\Coffees\Picture1.jpg" />
     <Content Include="Images\Coffees\Picture2.jpg" />
@@ -271,6 +271,7 @@
     <Content Include="Images\Coffees\Picture4.jpg" />
     <Content Include="Images\Coffees\Picture5.jpg" />
     <Content Include="Images\Coffees\Picture6.jpg" />
+    <Content Include="Images\Loades\RoundLoader.gif" />
     <Content Include="Images\Softline.png" />
     <Content Include="Images\Starbucks.png" />
     <Content Include="Scripts\jquery-1.7.1.js" />
@@ -351,8 +352,8 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201303221325209_update_014.resx">
-      <DependentUpon>201303221325209_update_014.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201303241104198_update_017.resx">
+      <DependentUpon>201303241104198_update_017.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

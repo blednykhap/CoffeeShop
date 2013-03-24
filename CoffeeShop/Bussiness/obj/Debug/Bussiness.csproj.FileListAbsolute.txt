@@ -8,3 +8,8 @@ D:\Programming\Coffee Project _008\CoffeeShop\Bussiness\bin\Debug\Bussiness.pdb
 D:\Programming\Coffee Project _008\CoffeeShop\Bussiness\obj\Debug\Bussiness.csprojResolveAssemblyReference.cache
 D:\Programming\Coffee Project _008\CoffeeShop\Bussiness\obj\Debug\Bussiness.dll
 D:\Programming\Coffee Project _008\CoffeeShop\Bussiness\obj\Debug\Bussiness.pdb
+D:\Programming\CoffeeShop\CoffeeShop\Bussiness\bin\Debug\Bussiness.dll
+D:\Programming\CoffeeShop\CoffeeShop\Bussiness\bin\Debug\Bussiness.pdb
+D:\Programming\CoffeeShop\CoffeeShop\Bussiness\obj\Debug\Bussiness.csprojResolveAssemblyReference.cache
+D:\Programming\CoffeeShop\CoffeeShop\Bussiness\obj\Debug\Bussiness.dll
+D:\Programming\CoffeeShop\CoffeeShop\Bussiness\obj\Debug\Bussiness.pdb

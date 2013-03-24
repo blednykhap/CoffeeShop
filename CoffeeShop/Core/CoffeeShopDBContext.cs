@@ -12,7 +12,7 @@ namespace Core
     {
         public DbSet<Coffee> Coffees { get; set; }
         public DbSet<Flavor> Flavors { get; set; }
-        public DbSet<OrderFlavor> OrderFlavors { get; set; }
+        public DbSet<CurrentOrder> CurrentOrders { get; set; }
         public DbSet<Order> Orders { get; set; }
     }
 }

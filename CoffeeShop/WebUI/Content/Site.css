@@ -107,7 +107,7 @@ h5, h6 {
     .main-content {
         /*background: url("../Images/accent.png") no-repeat;*/
         padding-left: 10px;
-        padding-top: 30px;
+        padding-top: 10px;
         border-top: 6px solid #34713f;
         /*background-color: #e2e2e2;*/
     }
@@ -122,7 +122,7 @@ header .content-wrapper {
 
 footer {
     clear: both;
-    background-color: #BFBFBF;
+    background-color: #e2e2e2;
     font-size: .8em;
     height: 100px;
 }
@@ -430,9 +430,9 @@ input, textarea {
     border: 1px solid #e2e2e2;
     background: #fff;
     color: #333;
-    font-size: 1.2em;
+    font-size: 1em;
     margin: 5px 0 6px 0;
-    padding: 5px;
+    padding: 4px;
     width: 300px;
 }
 
@@ -581,7 +581,7 @@ th {
     }
 
 td {
-    padding: 0.25em 2em 0.25em 0em;
+    padding: 0.25em 1em 0.25em 0em;
     border: 0 none;
 }
 

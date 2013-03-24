@@ -27,38 +27,53 @@
             new AjaxOptions() { UpdateTargetId = "customer-content", OnComplete="CalculateQuantity()"},
             new { @class = (Model.CurrentCoffee == "PortionsFilter" ? "selected" : null)  })   
     </div>
-    <div id="content-body">
-    @*<div id="flavor-list">*@
-        @foreach (var flavor in Model.Flavors) { 
-            <div class="flavor-item">
-                <table style="width:100%; background-color: white;">
-                    <tr>                    
-                        @*<td> <img src='@Url.Action("ShowImage", "Flavor", new { flavorId = flavor.Id, nocache = DateTime.Now.ToString("ddMMyyyyHHmmssfffffff") })' />  </td>                    *@
-                        <td> <img src='@Url.Action("ShowImage", "Flavor", new { flavorId = flavor.Id })' />  </td>                    
-                        <td style="width: 350px;">
-                            <h3> @flavor.Name </h3> <br />
-                            <em> @flavor.Description </em> <br />
-                            <p>
-                                <strong> Roast: </strong> @flavor.Roast <br />
-                                <strong> Region: </strong> @flavor.Region
-                            </p>                    
-                        </td>
-                    </tr>
+    <div id="content-body">        
+        <table style="margin: 0px">
+            @{
+                int k = 0;
+                var flavors = Model.Flavors.ToArray();
+                for (int  i = 0;  i < Math.Ceiling((double)Model.Flavors.Count()/2);  i++)
+                {                    
                     <tr>
-                        <td style="text-align:center"> 
-                            <div id='@String.Concat("order-status-", flavor.Id.ToString())'></div>
-                        </td>                                           
-                        <td>                            
-                            @using (Ajax.BeginForm("Add", "OrderFlavor", new { flavorId = flavor.Id },
-                                new AjaxOptions() { HttpMethod = "POST", OnComplete="CalculateQuantity()", UpdateTargetId = String.Concat("order-status-", flavor.Id.ToString()) }, null))
-                            { 
-                                <button>ADD TO BAG</button>
-                            }
-                        </td>
-                    </tr>
-                </table>
-            </div>
-        }
+                        @for (int j = 0; j < 2; j++)
+                        {
+                            <td>                                
+                                @if (k < flavors.Length)
+                                {      
+                                    <div class="flavor-item">                               
+                                    <table style="margin: 0px; border: 1px dotted gray; max-width: 350px;">
+                                        <tr> <td colspan="2"> <h5>@flavors[k].Name</h5> </td> </tr>
+                                        <tr>
+                                            <td>
+                                                <img src='@Url.Action("ShowImage", "Flavor", new { flavorId = flavors[k].Id, nocache = DateTime.Now.ToString("ddMMyyyyHHmmssfffffff") })' />  
+                                            </td>
+                                            <td style="font-size: 0.8em"> <em> @flavors[k].Description </em> </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="font-size: 0.8em">
+                                                <strong> Roast: </strong> @flavors[k].Roast <br/>
+                                                <strong> Region: </strong> @flavors[k].Region
+                                            </td>
+                                            <td>
+                                                @using (Ajax.BeginForm("Add", "CurrentOrder", new { flavorId = flavors[k].Id },
+                                                                       new AjaxOptions() { HttpMethod = "POST", OnComplete = "CalculateQuantity()", UpdateTargetId = "Quantity" }, null))
+                                                { 
+                                                    @Html.TextAreaFor(p => p.Quantity, new { style = "overflow: hidden; width: 30px; height: 16px;" })
+                                                    <button>Add to bag</button> <br/>
+                                                    @Html.ValidationMessageFor(p => p.Quantity)
+                                                }                                                
+                                            </td>
+                                        </tr>
+                                    </table> 
+                                    </div>                                                                      
+                                    k++;
+                                }                                                                                                                         
+                            </td>
+                        }                     
+                    </tr>       
+                }
+            }
+        </table>     
         <div class="flavor-pager">
             @Ajax.FlavorPageLinks(Model)
         </div>

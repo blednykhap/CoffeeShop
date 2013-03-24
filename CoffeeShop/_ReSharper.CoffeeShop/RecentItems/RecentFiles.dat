@@ -1,0 +1,56 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="7F822D52-54E7-47F9-8840-33DF6E6F0A6A/d:Content/f:Site.css" caret="10716" fromTop="19" />
+    <File id="7F822D52-54E7-47F9-8840-33DF6E6F0A6A/d:Areas/d:Customer/d:Views/d:CurrentOrder/f:Index.cshtml" caret="1793" fromTop="42" />
+    <File id="7F822D52-54E7-47F9-8840-33DF6E6F0A6A/d:Areas/d:Customer/d:Views/d:Flavor/f:Index.cshtml" caret="5909" fromTop="11" />
+    <File id="7F822D52-54E7-47F9-8840-33DF6E6F0A6A/d:Areas/d:Customer/d:Views/d:Order/f:Index.cshtml" caret="108" fromTop="0" />
+    <File id="7F822D52-54E7-47F9-8840-33DF6E6F0A6A/d:App_Start/f:WebApiConfig.cs" caret="0" fromTop="0" />
+    <File id="7F822D52-54E7-47F9-8840-33DF6E6F0A6A/d:App_Start/f:RouteConfig.cs" caret="0" fromTop="0" />
+    <File id="7F822D52-54E7-47F9-8840-33DF6E6F0A6A/d:Views/d:Shared/f:_Layout.cshtml" caret="0" fromTop="0" />
+    <File id="7F822D52-54E7-47F9-8840-33DF6E6F0A6A/d:Controllers/f:AccountController.cs" caret="0" fromTop="0" />
+    <File id="7F822D52-54E7-47F9-8840-33DF6E6F0A6A/d:Views/d:Account/f:Login.cshtml" caret="0" fromTop="0" />
+    <File id="7F822D52-54E7-47F9-8840-33DF6E6F0A6A/d:Content/f:ShopStyle.css" caret="1085" fromTop="13" />
+    <File id="7F822D52-54E7-47F9-8840-33DF6E6F0A6A/d:App_Start/f:AuthConfig.cs" caret="1043" fromTop="22" />
+    <File id="CD179A5F-3DCD-473F-9550-53FF3AF3F173/d:Structures/f:PagingInfo.cs" caret="0" fromTop="0" />
+    <File id="CD179A5F-3DCD-473F-9550-53FF3AF3F173/d:Models/f:OrderFlavor_.cs" caret="208" fromTop="9" />
+    <File id="CD179A5F-3DCD-473F-9550-53FF3AF3F173/d:Models/f:Order.cs" caret="197" fromTop="10" />
+    <File id="CD179A5F-3DCD-473F-9550-53FF3AF3F173/d:Models/f:Flavor.cs" caret="264" fromTop="0" />
+    <File id="CD179A5F-3DCD-473F-9550-53FF3AF3F173/d:Models/f:Entity.cs" caret="234" fromTop="11" />
+    <File id="7F822D52-54E7-47F9-8840-33DF6E6F0A6A/d:App_Start/f:NinjectWebCommon.cs" caret="2119" fromTop="17" />
+    <File id="CD179A5F-3DCD-473F-9550-53FF3AF3F173/f:CoffeeShopDBContext.cs" caret="336" fromTop="13" />
+    <File id="CD179A5F-3DCD-473F-9550-53FF3AF3F173/d:Models/f:CurrentOrder.cs" caret="557" fromTop="20" />
+    <File id="CD179A5F-3DCD-473F-9550-53FF3AF3F173/d:Models/f:Coffee.cs" caret="0" fromTop="0" />
+    <File id="7F822D52-54E7-47F9-8840-33DF6E6F0A6A/d:App_Start/f:FilterConfig.cs" caret="0" fromTop="0" />
+    <File id="CD179A5F-3DCD-473F-9550-53FF3AF3F173/d:Views/f:CoffeeFlavorListView.cs" caret="741" fromTop="14" />
+    <File id="7F822D52-54E7-47F9-8840-33DF6E6F0A6A/d:HtmlHelpers/f:PagingHelpers.cs" caret="717" fromTop="14" />
+    <File id="7F822D52-54E7-47F9-8840-33DF6E6F0A6A/d:Areas/d:Customer/d:Views/d:Shared/f:_Layout.cshtml" caret="0" fromTop="0" />
+    <File id="7F822D52-54E7-47F9-8840-33DF6E6F0A6A/d:Areas/d:Customer/d:Controllers/f:CurrentOrderController.cs" caret="3388" fromTop="11" />
+    <File id="7F822D52-54E7-47F9-8840-33DF6E6F0A6A/d:Areas/d:Customer/d:Controllers/f:FlavorController.cs" caret="1490" fromTop="16" />
+    <File id="7F822D52-54E7-47F9-8840-33DF6E6F0A6A/d:Areas/d:Customer/d:Controllers/f:HomeController.cs" caret="0" fromTop="0" />
+    <File id="7F822D52-54E7-47F9-8840-33DF6E6F0A6A/f:Web.config" caret="210" fromTop="3" />
+    <File id="1A729020-4494-43F7-8765-FE1CA8BD6DC6/d:Files/f:ImageLogic.cs" caret="712" fromTop="18" />
+    <File id="7F822D52-54E7-47F9-8840-33DF6E6F0A6A/d:Areas/d:Customer/d:Controllers/f:OrderController.cs" caret="0" fromTop="0" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="CD179A5F-3DCD-473F-9550-53FF3AF3F173/d:Views/f:CoffeeFlavorListView.cs" caret="629" fromTop="13" />
+    <File id="CD179A5F-3DCD-473F-9550-53FF3AF3F173/d:Models/f:CurrentOrder.cs" caret="557" fromTop="20" />
+    <File id="CD179A5F-3DCD-473F-9550-53FF3AF3F173/d:Models/f:Order.cs" caret="199" fromTop="10" />
+    <File id="CD179A5F-3DCD-473F-9550-53FF3AF3F173/d:Models/f:Entity.cs" caret="234" fromTop="11" />
+    <File id="CD179A5F-3DCD-473F-9550-53FF3AF3F173/d:Models/f:OrderFlavor_.cs" caret="208" fromTop="9" />
+    <File id="7F822D52-54E7-47F9-8840-33DF6E6F0A6A/d:App_Start/f:AuthConfig.cs" caret="1043" fromTop="22" />
+    <File id="7F822D52-54E7-47F9-8840-33DF6E6F0A6A/d:Areas/d:Customer/d:Controllers/f:OrderController.cs" caret="1109" fromTop="16" />
+    <File id="7F822D52-54E7-47F9-8840-33DF6E6F0A6A/d:Areas/d:Customer/d:Views/d:Order/f:Index.cshtml" caret="108" fromTop="4" />
+    <File id="7F822D52-54E7-47F9-8840-33DF6E6F0A6A/d:Scripts/f:ShopScript.js" caret="393" fromTop="10" />
+    <File id="7F822D52-54E7-47F9-8840-33DF6E6F0A6A/d:Content/f:ShopStyle.css" caret="1085" fromTop="13" />
+    <File id="7F822D52-54E7-47F9-8840-33DF6E6F0A6A/d:Content/f:Site.css" caret="10716" fromTop="19" />
+    <File id="7F822D52-54E7-47F9-8840-33DF6E6F0A6A/d:Areas/d:Customer/d:Views/d:CurrentOrder/f:Index.cshtml" caret="1793" fromTop="21" />
+    <File id="7F822D52-54E7-47F9-8840-33DF6E6F0A6A/d:Areas/d:Customer/d:Views/d:Flavor/f:Index.cshtml" caret="5909" fromTop="11" />
+    <File id="7F822D52-54E7-47F9-8840-33DF6E6F0A6A/d:Areas/d:Customer/d:Views/d:Shared/f:_Layout.cshtml" caret="978" fromTop="10" />
+    <File id="7F822D52-54E7-47F9-8840-33DF6E6F0A6A/d:App_Start/f:NinjectWebCommon.cs" caret="2119" fromTop="17" />
+    <File id="CD179A5F-3DCD-473F-9550-53FF3AF3F173/f:CoffeeShopDBContext.cs" caret="336" fromTop="13" />
+    <File id="7F822D52-54E7-47F9-8840-33DF6E6F0A6A/d:Areas/d:Customer/d:Controllers/f:FlavorController.cs" caret="1490" fromTop="1" />
+    <File id="7F822D52-54E7-47F9-8840-33DF6E6F0A6A/d:Areas/d:Customer/d:Controllers/f:CurrentOrderController.cs" caret="3388" fromTop="11" />
+    <File id="1A729020-4494-43F7-8765-FE1CA8BD6DC6/d:Files/f:ImageLogic.cs" caret="616" fromTop="15" />
+    <File id="7F822D52-54E7-47F9-8840-33DF6E6F0A6A/f:Web.config" caret="909" fromTop="11" />
+  </RecentEdits>
+</RecentFiles>

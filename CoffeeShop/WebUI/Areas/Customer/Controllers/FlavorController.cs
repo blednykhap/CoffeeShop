@@ -15,13 +15,11 @@ namespace WebUI.Areas.Customer.Controllers
 {
     public class FlavorController : Controller
     {
-        private int pageSize = 3;
-        private readonly IBaseRepository<Coffee> rCoffee;
-        private readonly IBaseRepository<Flavor> rFlavor; //sdf
+        private int pageSize = 10;
+        private readonly IBaseRepository<Flavor> rFlavor;
 
-        public FlavorController(IBaseRepository<Coffee> rCoffee, IBaseRepository<Flavor> rFlavor)
+        public FlavorController(IBaseRepository<Flavor> rFlavor)
         {            
-            this.rCoffee = rCoffee;
             this.rFlavor = rFlavor;
         }
 
@@ -46,36 +44,11 @@ namespace WebUI.Areas.Customer.Controllers
             return PartialView(result);
         }
 
-        //public FileContentResult ShowImage(int flavorId)
         public ActionResult ShowImage(int flavorId)
-        {
-            //byte[] fileContent = ImageLogic.GetFromDB("Flavors", flavorId);
+        {           
+            byte[] coffeeImage = ImageLogic.GetFromDB(flavorId);
 
-            SqlDataReader rdr;
-            byte[] coffeeImage = null;
-            //string connect = ConfigurationManager.ConnectionStrings["ApplicationConn"].ConnectionString;
-
-            //using (var conn = new SqlConnection(connect))
-            //{
-            //    var qry = "SELECT CoffeeImage FROM Flavors WHERE Id = @Id";
-            //    var cmd = new SqlCommand(qry, conn);
-            //    //cmd.Parameters.AddWithValue("@ObjectName", objectNamePLR);
-            //    cmd.Parameters.AddWithValue("@Id", flavorId);
-            //    conn.Open();
-            //    rdr = cmd.ExecuteReader();
-            //    if (rdr.HasRows)
-            //    {
-            //        rdr.Read();
-            //        try
-            //        {
-            //            coffeeImage = (byte[])rdr["CoffeeImage"];
-            //        }
-            //        catch { rdr.Dispose(); }
-            //    }
-            //}
-            //rdr.Dispose();
-            //return File(coffeeImage, "image/jpeg");
-            return Content("");
+            return File(coffeeImage, "image/jpeg");
         }
     }
 }

@@ -29,7 +29,7 @@ namespace WebUI
             //    appSecret: "");
 
             OAuthWebSecurity.RegisterGoogleClient();
-            OAuthWebSecurity.RegisterYahooClient();
+            //OAuthWebSecurity.RegisterYahooClient();
 
             //var myOpenIdClient = new OpenIdClient("myopenId", WellKnownProviders.MyOpenId);
             //OAuthWebSecurity.RegisterClient(myOpenIdClient, "myOpenId", null);

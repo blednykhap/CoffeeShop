@@ -9,7 +9,7 @@ namespace Core.Models
 {
     public class Entity
     {
-        [DisplayName("Номер")]
+        [DisplayName("№")]
         public int Id { get; set; }
     }
 }

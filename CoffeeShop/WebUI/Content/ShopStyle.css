@@ -41,8 +41,8 @@
 
 .flavor-item {
     border-top: 1px dotted gray;
-    padding-top: 0.7em;
-    margin-bottom: 0.7em;
+    padding-top: 0.2em;
+    margin-bottom: 0.2em;
 }
 
     .flavor-item:first-child {
@@ -50,9 +50,27 @@
         padding-top: 0;
     }
 
-    .flavor-item h3 {
-        font-size: 1.3em;
-        margin: 0 0 0.25em 0;
+    .flavor-item h5 {
+        margin-top: 0em;
+    }
+
+    .flavor-item p {
+        margin-top: 0;
+    }
+
+    .flavor-item table {
+        padding: 0;
+        margin: 0;
+    }
+
+    .flavor-item tr {
+        padding: 0.1em;
+        margin: 0;
+    }
+    
+    .flavor-item td {
+        padding: 0.3em;
+        margin: 0;
     }
 
 .flavor-pager {
@@ -76,3 +94,27 @@
             background-color: #353535;
             color: white;
         }
+
+.order-list {    
+}
+    /*.order-list table {
+        margin: 0;
+    }*/
+    .order-list tr {
+        border: 1px solid gray;    
+    }
+    .order-list td {
+        border: 1px solid gray;
+    }
+
+.current-order {    
+}
+    /*.current-order table {
+        margin: 0;
+    }*/
+
+.content-title {
+    font-size: 1.5em;
+    text-align: center;
+}
+

@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="7F822D52-54E7-47F9-8840-33DF6E6F0A6A" ModuleId="WebUI" />
+  <Module PersistentId="CD179A5F-3DCD-473F-9550-53FF3AF3F173" ModuleId="Core" />
+  <Module PersistentId="1A729020-4494-43F7-8765-FE1CA8BD6DC6" ModuleId="Bussiness" />
+</Modules>

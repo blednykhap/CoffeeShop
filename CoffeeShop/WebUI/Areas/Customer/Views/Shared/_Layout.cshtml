@@ -20,22 +20,15 @@
                 </div>
                 <div class="float-right">
                     <section id="login">
-                        @Html.Partial("_LoginPartial")                        
+                     @*   @Html.Partial("_LoginPartial")     *@                   
                     </section>
-                    <div style="margin-top:50px;" class="my-bag">
-                        @*<nav>
-                            <ul id="menu">
-                                <li>@Html.ActionLink("Домашняя страница", "Index", "Home")</li>
-                                <li>@Html.ActionLink("О программе", "About", "Home")</li>
-                                <li>@Html.ActionLink("Контакт", "Contact", "Home")</li>
-                            </ul>
-                        </nav>*@
+                    <div style="margin-top:50px;" class="my-bag">                        
+                        @Ajax.ActionLink("ORDER LIST", "Index", "Order", 
+                            new AjaxOptions() { HttpMethod = "POST", UpdateTargetId = "content-body", OnComplete="CalculateQuantity()"})
 
-                        <a>ORDER LIST</a>
-
-                        @Ajax.ActionLink("MY BAG", "Index", "OrderFlavor", 
+                        @Ajax.ActionLink("MY BAG", "Index", "CurrentOrder", new { nocache = DateTime.Now.ToString("ddMMyyyyHHmmssfffffff")}, 
                             new AjaxOptions() { HttpMethod = "POST", InsertionMode = System.Web.Mvc.Ajax.InsertionMode.Replace, UpdateTargetId = "content-body"})
-                        <span id="order-flavor-quantity"></span>
+                        <span id="order-flavor-quantity">0</span>
                     </div>
                 </div>
             </div>

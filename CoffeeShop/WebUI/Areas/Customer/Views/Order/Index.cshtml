@@ -1,0 +1,26 @@
+﻿@model IEnumerable<Core.Models.Order>
+
+<div class="order-list">
+    <div class="content-title">
+        My order
+    </div>    
+    <table>
+        <tr>
+            <td> № </td>
+            <td> Position Quantity </td>
+            <td> Quantity </td>
+            <td> Total Sum </td>
+            <td>  </td>
+        </tr>    
+        @foreach(var order in Model)
+        {
+            <tr>
+                <td> @order.Id </td>
+                <td> @order.CurrentOrders.Count() </td>
+                <td> @order.CurrentOrders.Sum(p => p.Quantity) </td>
+                <td> @order.TotalSum() </td>
+                <td> View </td>
+            </tr>
+        }
+    </table>   
+</div>
