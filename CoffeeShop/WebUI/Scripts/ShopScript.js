@@ -23,3 +23,4 @@ $(document).ajaxStart(function () {
 $(document).ajaxStop(function () {
     $("body").children("#loading").remove();
 });
+

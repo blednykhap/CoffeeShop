@@ -57,6 +57,7 @@ namespace WebUI.App_Start
             kernel.Bind<IBaseRepository<Flavor>>().To<BaseRepository<Flavor>>().InRequestScope();
             kernel.Bind<IBaseRepository<CurrentOrder>>().To<BaseRepository<CurrentOrder>>().InRequestScope();
             kernel.Bind<IBaseRepository<Order>>().To<BaseRepository<Order>>().InRequestScope();
+            kernel.Bind<IBaseRepository<Comment>>().To<BaseRepository<Comment>>().InRequestScope();
         }        
     }
 }

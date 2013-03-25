@@ -14,5 +14,6 @@ namespace Core
         public DbSet<Flavor> Flavors { get; set; }
         public DbSet<CurrentOrder> CurrentOrders { get; set; }
         public DbSet<Order> Orders { get; set; }
+        public DbSet<Comment> Comments { get; set; }
     }
 }

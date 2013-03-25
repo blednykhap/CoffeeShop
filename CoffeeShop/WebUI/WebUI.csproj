@@ -178,6 +178,7 @@
     <Compile Include="App_Start\NinjectWebCommon.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Areas\Customer\Controllers\CommentController.cs" />
     <Compile Include="Areas\Customer\Controllers\FlavorController.cs" />
     <Compile Include="Areas\Customer\Controllers\HomeController.cs" />
     <Compile Include="Areas\Customer\Controllers\OrderController.cs" />
@@ -191,9 +192,9 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="HtmlHelpers\PagingHelpers.cs" />
-    <Compile Include="Migrations\201303241104198_update_017.cs" />
-    <Compile Include="Migrations\201303241104198_update_017.Designer.cs">
-      <DependentUpon>201303241104198_update_017.cs</DependentUpon>
+    <Compile Include="Migrations\201303252008443_update_020.cs" />
+    <Compile Include="Migrations\201303252008443_update_020.Designer.cs">
+      <DependentUpon>201303252008443_update_020.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountModels.cs" />
@@ -265,6 +266,8 @@
     <Content Include="Areas\Customer\Views\Order\Index.cshtml" />
     <Content Include="Areas\Customer\Views\CurrentOrder\Index.cshtml" />
     <Content Include="Areas\Customer\Views\Order\Details.cshtml" />
+    <Content Include="Areas\Customer\Views\Comment\Index.cshtml" />
+    <Content Include="Areas\Customer\Views\Comment\Create.cshtml" />
     <None Include="Scripts\jquery-1.7.1.intellisense.js" />
     <Content Include="Images\Coffees\Picture1.jpg" />
     <Content Include="Images\Coffees\Picture2.jpg" />
@@ -353,8 +356,8 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201303241104198_update_017.resx">
-      <DependentUpon>201303241104198_update_017.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201303252008443_update_020.resx">
+      <DependentUpon>201303252008443_update_020.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

@@ -118,3 +118,23 @@
     text-align: center;
 }
 
+.comment-list-class {    
+}
+    .comment-list-class table {        
+    }
+    
+    .comment-list-class tr {
+        border: 1px solid gray;
+    }
+
+    .comment-list-class tr:first-child {
+        background-color: #e5e5e5;
+    }
+
+    .comment-list-class td {
+        border: 1px solid gray;
+        width: 395px;
+        margin: 5px;
+        padding: 5px;
+    }
+

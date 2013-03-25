@@ -50,15 +50,16 @@
   <ItemGroup>
     <Compile Include="CoffeeShopDBContext.cs" />
     <Compile Include="Models\Coffee.cs" />
+    <Compile Include="Models\Comment.cs" />
     <Compile Include="Models\Entity.cs" />
     <Compile Include="Models\Flavor.cs" />
     <Compile Include="Models\Order.cs" />
-    <Compile Include="Models\OrderFlavor_.cs" />
     <Compile Include="Models\CurrentOrder.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositories\BaseRepository.cs" />
     <Compile Include="Structures\PagingInfo.cs" />
     <Compile Include="Views\CoffeeFlavorListView.cs" />
+    <Compile Include="Views\CommentView.cs" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

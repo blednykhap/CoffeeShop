@@ -21,7 +21,7 @@
                 <td> @order.TotalSum() </td>
                 <td>
                     @Ajax.ActionLink("View", "Details", new { orderId = order.Id }, 
-                        new AjaxOptions() { UpdateTargetId = "content-body" })
+                                     new AjaxOptions() { UpdateTargetId = "content-body"/*,  HttpMethod = "POST", InsertionMode = InsertionMode.Replace*/})
                 </td>
             </tr>
         }

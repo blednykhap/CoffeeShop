@@ -1,0 +1,14 @@
+﻿@model Core.Views.CommentView
+
+@using (Ajax.BeginForm("Create", "Comment", new { orderId = Model.OrderId}, 
+    new AjaxOptions() { UpdateTargetId = "comment-list", HttpMethod = "POST", OnComplete = "ClearCommentArea()"}))
+{
+    @Html.TextAreaFor(p => p.Content, new { style = "overflow: hidden; width: 400px; height: 100px;" }) <br/>    
+    <button>Save</button>
+}
+
+<script type="text/javascript">
+    function ClearCommentArea() {
+        $('#Content').text('');
+    };
+</script>
