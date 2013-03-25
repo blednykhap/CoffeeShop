@@ -19,7 +19,10 @@
                 <td> @order.CurrentOrders.Count() </td>
                 <td> @order.CurrentOrders.Sum(p => p.Quantity) </td>
                 <td> @order.TotalSum() </td>
-                <td> View </td>
+                <td>
+                    @Ajax.ActionLink("View", "Details", new { orderId = order.Id }, 
+                        new AjaxOptions() { UpdateTargetId = "content-body" })
+                </td>
             </tr>
         }
     </table>   

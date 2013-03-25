@@ -31,6 +31,13 @@ namespace WebUI.Areas.Customer.Controllers
             }
         }
 
+        public ActionResult Details(int orderId)
+        {
+            var order = rOrder.Get(p => p.Id == orderId);
+            return PartialView(order);
+        }
+
+
         public ContentResult Checkout()
         {
             int orderId;
