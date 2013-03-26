@@ -45,7 +45,7 @@
                                         <tr> <td colspan="2"> <h5>@flavors[k].Name</h5> </td> </tr>
                                         <tr>
                                             <td>
-                                                <img src='@Url.Action("ShowImage", "Flavor", new { flavorId = flavors[k].Id, nocache = DateTime.Now.ToString("ddMMyyyyHHmmssfffffff") })' />  
+                                                <img src='@Url.Action("ShowImage", "Flavor", new { flavorId = flavors[k].Id })' />  
                                             </td>
                                             <td style="font-size: 0.8em"> <em> @flavors[k].Description </em> </td>
                                         </tr>
@@ -56,7 +56,8 @@
                                             </td>
                                             <td>
                                                 @using (Ajax.BeginForm("Add", "CurrentOrder", new { flavorId = flavors[k].Id },
-                                                                       new AjaxOptions() { HttpMethod = "POST", OnComplete = "CalculateQuantity()", UpdateTargetId = "Quantity" }, null))
+                                                    new AjaxOptions() { HttpMethod = "POST", OnComplete = "AddCurrentOrder(" + flavors[k].Id + ")", UpdateTargetId = "Quantity" }, 
+                                                    new { id = "form" + flavors[k].Id }))
                                                 { 
                                                     @Html.TextAreaFor(p => p.Quantity, new { style = "overflow: hidden; width: 30px; height: 16px;" })
                                                     <button>Add to bag</button> <br/>
@@ -79,4 +80,13 @@
         </div>
     </div>
 </div>
+
+<script>
+    function AddCurrentOrder(flavorId)
+    {        
+        var formId = "form" + flavorId;
+        $('#' + formId).children("textarea").text("0");
+        CalculateQuantity();
+    }
+</script>
 

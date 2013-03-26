@@ -5,13 +5,13 @@ namespace WebUI.Migrations
     using System.Data.Entity.Migrations.Infrastructure;
     using System.Resources;
     
-    public sealed partial class update_020 : IMigrationMetadata
+    public sealed partial class update_021 : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(update_020));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(update_021));
         
         string IMigrationMetadata.Id
         {
-            get { return "201303252008443_update_020"; }
+            get { return "201303262047474_update_021"; }
         }
         
         string IMigrationMetadata.Source

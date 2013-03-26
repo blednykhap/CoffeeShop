@@ -1,10 +1,16 @@
 ﻿@model Core.Views.CommentView
 
+@* @{ Html.EnableClientValidation(true); } *@
+
 @using (Ajax.BeginForm("Create", "Comment", new { orderId = Model.OrderId}, 
     new AjaxOptions() { UpdateTargetId = "comment-list", HttpMethod = "POST", OnComplete = "ClearCommentArea()"}))
-{
-    @Html.TextAreaFor(p => p.Content, new { style = "overflow: hidden; width: 400px; height: 100px;" }) <br/>    
+{ 
+    //@Html.AntiForgeryToken() 
+    //@Html.ValidationSummary()
+    
+    @Html.TextAreaFor(p => p.Content, new { style = "overflow: hidden; width: 400px; height: 100px;" }) <br/>        
     <button>Save</button>
+    @Html.ValidationMessageFor(p => p.Content) 
 }
 
 <script type="text/javascript">

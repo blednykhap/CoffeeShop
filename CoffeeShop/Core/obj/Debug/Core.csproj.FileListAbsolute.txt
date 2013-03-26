@@ -46,3 +46,11 @@ D:\Programming\CoffeeShop\CoffeeShop\Core\bin\Debug\ru\EntityFramework.resources
 D:\Programming\CoffeeShop\CoffeeShop\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
 D:\Programming\CoffeeShop\CoffeeShop\Core\obj\Debug\Core.dll
 D:\Programming\CoffeeShop\CoffeeShop\Core\obj\Debug\Core.pdb
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\CoffeeShop\CoffeeShop\Core\bin\Debug\Core.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\CoffeeShop\CoffeeShop\Core\bin\Debug\Core.pdb
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\CoffeeShop\CoffeeShop\Core\bin\Debug\EntityFramework.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\CoffeeShop\CoffeeShop\Core\bin\Debug\EntityFramework.xml
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\CoffeeShop\CoffeeShop\Core\bin\Debug\ru\EntityFramework.resources.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\CoffeeShop\CoffeeShop\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\CoffeeShop\CoffeeShop\Core\obj\Debug\Core.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\CoffeeShop\CoffeeShop\Core\obj\Debug\Core.pdb

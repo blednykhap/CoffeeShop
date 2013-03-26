@@ -1,9 +1,11 @@
 ﻿@model IEnumerable<Core.Views.CommentView>
 
-    @foreach(var comment in Model)
-    {
-        <table>
-            <tr> <td> @comment.MakeDate </td> </tr>
-            <tr> <td> @comment.Content </td> </tr>
-        </table>    
-    }    
+<em> Comments: </em>
+
+@foreach(var comment in Model)
+{
+    <table>
+        <tr> <td> @comment.MakeDate </td> </tr>
+        <tr> <td> @comment.Content </td> </tr>
+    </table>    
+}    

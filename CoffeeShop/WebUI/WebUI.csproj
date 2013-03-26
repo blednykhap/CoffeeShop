@@ -192,9 +192,9 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="HtmlHelpers\PagingHelpers.cs" />
-    <Compile Include="Migrations\201303252008443_update_020.cs" />
-    <Compile Include="Migrations\201303252008443_update_020.Designer.cs">
-      <DependentUpon>201303252008443_update_020.cs</DependentUpon>
+    <Compile Include="Migrations\201303262047474_update_021.cs" />
+    <Compile Include="Migrations\201303262047474_update_021.Designer.cs">
+      <DependentUpon>201303262047474_update_021.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountModels.cs" />
@@ -356,8 +356,8 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201303252008443_update_020.resx">
-      <DependentUpon>201303252008443_update_020.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201303262047474_update_021.resx">
+      <DependentUpon>201303262047474_update_021.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

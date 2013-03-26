@@ -10,6 +10,7 @@ using Core.Repositories;
 using Core.Models;
 using Core.Views;
 using Core.Structures;
+using Core.Filters;
 
 namespace WebUI.Areas.Customer.Controllers
 {
@@ -44,6 +45,7 @@ namespace WebUI.Areas.Customer.Controllers
             return PartialView(result);
         }
 
+        [NoCache]
         public ActionResult ShowImage(int flavorId)
         {           
             byte[] coffeeImage = ImageLogic.GetFromDB(flavorId);

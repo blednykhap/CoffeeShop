@@ -19,6 +19,8 @@ namespace Core.Models
 
         [MaxLength(1000)]
         [DisplayName("Comment")]
+        [Required(ErrorMessage = "You should leave a message!")]
+        [StringLength(5, ErrorMessage = "Message should have at least 5 letters!")]
         public string Content { get; set; }
     }
 }

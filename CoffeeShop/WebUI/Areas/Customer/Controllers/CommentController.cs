@@ -6,6 +6,7 @@ using System.Web.Mvc;
 using Core.Models;
 using Core.Repositories;
 using Core.Views;
+using Core.Filters;
 
 namespace WebUI.Areas.Customer.Controllers
 {
@@ -18,6 +19,7 @@ namespace WebUI.Areas.Customer.Controllers
             this.rComment = rComment;
         }
 
+        [NoCache]
         public ActionResult Index(int orderId)
         {
             var comments = (from p in rComment.GetList(p => p.OrderId == orderId).ToList()
@@ -39,10 +41,14 @@ namespace WebUI.Areas.Customer.Controllers
         }
 
         [HttpPost]
+        //[ValidateAntiForgeryToken]
         public ActionResult Create(Comment comment)
         {
             comment.MakeDate = DateTime.Now;
-            rComment.Create(comment);
+            if (ModelState.IsValid)
+            {
+                rComment.Create(comment);
+            }            
             var comments = (from p in rComment.GetList(p => p.OrderId == comment.OrderId).ToList()
                             select new CommentView()
                             {

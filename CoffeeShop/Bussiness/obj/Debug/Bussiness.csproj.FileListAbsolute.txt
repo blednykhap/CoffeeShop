@@ -13,3 +13,8 @@ D:\Programming\CoffeeShop\CoffeeShop\Bussiness\bin\Debug\Bussiness.pdb
 D:\Programming\CoffeeShop\CoffeeShop\Bussiness\obj\Debug\Bussiness.csprojResolveAssemblyReference.cache
 D:\Programming\CoffeeShop\CoffeeShop\Bussiness\obj\Debug\Bussiness.dll
 D:\Programming\CoffeeShop\CoffeeShop\Bussiness\obj\Debug\Bussiness.pdb
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\CoffeeShop\CoffeeShop\Bussiness\bin\Debug\Bussiness.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\CoffeeShop\CoffeeShop\Bussiness\bin\Debug\Bussiness.pdb
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\CoffeeShop\CoffeeShop\Bussiness\obj\Debug\Bussiness.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\CoffeeShop\CoffeeShop\Bussiness\obj\Debug\Bussiness.dll
+C:\Program Files (x86)\Adobe\Reader 11.0\Esl\CoffeeShop\CoffeeShop\Bussiness\obj\Debug\Bussiness.pdb
